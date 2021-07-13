@@ -21,10 +21,9 @@ public class ManageEmployee {
 		ManageEmployee manageEmployee = new ManageEmployee();
 
 		// Add few employee records in database
-//		Integer empID1 = manageEmployee.addEmployee("David", "Bishop", 1000);
-//		Integer empID2 = manageEmployee.addEmployee("Chris", "Ali", 5000);
-//		Integer empID3 = manageEmployee.addEmployee("John", "Vector", 10000);
-
+//		Integer empID1 = manageEmployee.addEmployee("Thuan", "Tran", 1000);
+//		Integer empID2 = manageEmployee.addEmployee("Anh", "Tran", 5000);
+//		Integer empID3 = manageEmployee.addEmployee("Bao", "Nguyen", 10000);
 		manageEmployee.listEmployees();
 	}
 
